@@ -4,7 +4,7 @@ article {
   background: white;
   margin: 0 auto;
   overflow: auto;
-  padding: 1em;
+  padding: 5mm;
 }
 
 @media (max-width: 639.9px) {
